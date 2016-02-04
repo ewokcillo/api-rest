@@ -1,2 +1,5 @@
-# taller-jpd15
-Taller para las jpd15
+# API_REST
+
+$pip install -r requeriments.txt
+
+$python ap_rest.py

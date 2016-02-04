@@ -5,7 +5,7 @@ IP_HOST = "0.0.0.0"
 PORT_HOST = 5000
 
 # MONGODB VARS
-DATABASE = ""
+DATABASE = "opendata"
 
 try:
     from local_settings import *
